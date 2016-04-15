@@ -50,3 +50,4 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 gem 'simple_form'
 gem 'devise'
 gem 'paperclip'
+gem 'dotenv-rails', groups: [:development]
